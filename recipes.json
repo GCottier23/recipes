@@ -30,3 +30,56 @@
     "Boil peas in boiling water for 3–4 minutes, drain, and add butter. Serve the cottage pie with the peas."
   ]
 }
+
+{
+  "recipeName": "Indonesian-inspired Chicken Biryani",
+  "prepTimeMinutes": 120,
+  "cookTimeMinutes": 60,
+  "servings": 8,
+  "ingredients": [
+        { "quantity": "150", "unit": "g", "ingredient": "Natural Plain Yoghurt" },
+        { "quantity": "4", "unit": "tbsp", "ingredient": "Sambal Oelek Chilli Paste" },
+        { "quantity": "2", "unit": "tbsp", "ingredient": "Kecap Manis" },
+        { "quantity": "1", "unit": "tbsp", "ingredient": "Tamarind Paste" },
+        { "quantity": "1", "unit": "tbsp", "ingredient": "Ginger" },
+        { "quantity": "2", "unit": "unit", "ingredient": "Garlic Cloves" },
+        { "quantity": "2", "unit": "tsp", "ingredient": "Ground Cinnamon" },
+        { "quantity": "1", "unit": "tsp", "ingredient": "Ground Cardamom" },
+        { "quantity": "1", "unit": "tsp", "ingredient": "Ground Turmeric" },
+        { "quantity": "1/2", "unit": "tsp", "ingredient": "Fine Sea Salt" },
+        { "quantity": "1", "unit": "tbsp", "ingredient": "Vegetable Oil" }
+        { "quantity": "10", "unit": "unit", "ingredient": "Chicken Thighs" },
+        { "quantity": "4", "unit": "tbsp", "ingredient": "Vegetable Oil" },
+        { "quantity": "3", "unit": "unit", "ingredient": "Onions" }
+        { "quantity": "4", "unit": "unit", "ingredient": "Cardamom Pods" },
+        { "quantity": "2", "unit": "unit", "ingredient": "Cinnamon Stick" },
+        { "quantity": "2", "unit": "unit", "ingredient": "Cloves" },
+        { "quantity": "3", "unit": "unit", "ingredient": "Star Anise" },
+        { "quantity": "25", "unit": "g", "ingredient": "Desiccated Coconut" },
+        { "quantity": "2", "unit": "tsp", "ingredient": "Pink Peppercorns" },
+        { "quantity": "2", "unit": "tbsp", "ingredient": "Fine Sea Salt" },
+        { "quantity": "2", "unit": "tsp", "ingredient": "Sesame Oil" },
+        { "quantity": "1", "unit": "tsp", "ingredient": "Lime Juice" },
+        { "quantity": "600", "unit": "g", "ingredient": "Basmati Rice" }
+        { "quantity": "1", "unit": "tsp", "ingredient": "Sesame Oil" },
+        { "quantity": "2", "unit": "tsp", "ingredient": "Cumin Seeds" },
+        { "quantity": "25", "unit": "g", "ingredient": "Desiccated Coconut" },
+        { "quantity": "50", "unit": "g", "ingredient": "Dried Cranberries" }
+      ]
+  "method": [
+    "Mix all marinade ingredients in a dish large enough to hold the chicken in a single layer.",
+    "Add the chicken thighs to the marinade, coat thoroughly, and leave to marinate.",
+    "Heat oil in a wide pan and cook the onions for 25–35 minutes until soft but pale.",
+    "Remove chicken from marinade and place in the pan with onions, bone-side down. Scrape any remaining marinade into the pan. Cover and simmer for 15 minutes.",
+    "Uncover, turn chicken over, and simmer uncovered for 30 minutes, reducing the sauce until thick and clinging to the chicken. Remove chicken if needed to reduce sauce.",
+    "Transfer chicken and sauce to a dish and refrigerate overnight. Debone and tear into chunks when ready to use.",
+    "To prepare rice, place whole spices, coconut, and pink peppercorns in a large pot with water, salt, lime juice, and sesame oil. Bring to a boil, then let sit with heat off to infuse.",
+    "Rinse and soak the rice in cold water for 30 minutes.",
+    "Reheat chicken gently. Bring spiced water to a boil. Drain rice and gradually add to the boiling water. Boil for 2 minutes, then drain well.",
+    "Wipe the pan clean, brush with sesame oil, and layer in half the rice. Add half the cumin, coconut, cranberries, then all the reheated chicken and sauce. Add remaining rice and repeat the topping.",
+    "Seal the pan with foil and a lid. Heat for 4–5 minutes on medium, then cook on low for 15–16 minutes.",
+    "Remove from heat, replace foil with a tea towel, and leave to steam for 20 minutes off heat.",
+    "Meanwhile, air-fry or fry chicken skin until crispy, then let cool. Save the rendered fat for future use.",
+    "Serve the biryani on a platter, topping with crispy chicken skin and chopped coriander."
+  ]
+}
