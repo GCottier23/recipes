@@ -1,0 +1,32 @@
+{
+  "recipeName": "Cottage Pie",
+  "prepTimeMinutes": 30,
+  "cookTimeMinutes": 90,
+  "servings": 6,
+  "ingredients": [
+    { "quantity": 50, "unit": "ml", "ingredient": "Olive Oil" },
+    { "quantity": 1, "unit": "unit", "ingredient": "Large Onion" },
+    { "quantity": 650, "unit": "g", "ingredient": "Beef Mince" },
+    { "quantity": 2, "unit": "tbsp", "ingredient": "Tomato Purée" },
+    { "quantity": 1, "unit": "tbsp", "ingredient": "Plain Flour" },
+    { "quantity": 150, "unit": "ml", "ingredient": "Red Wine" },
+    { "quantity": 4, "unit": "sprigs", "ingredient": "Thyme Leaves" },
+    { "quantity": 400, "unit": "ml", "ingredient": "Beef Stock" },
+    { "quantity": null, "unit": null, "ingredient": "Worcestershire Sauce" },
+    { "quantity": 900, "unit": "g", "ingredient": "Potatoes" },
+    { "quantity": 115, "unit": "g", "ingredient": "Butter" },
+    { "quantity": 125, "unit": "ml", "ingredient": "Milk" },
+    { "quantity": 150, "unit": "g", "ingredient": "Frozen Peas" },
+    { "quantity": 50, "unit": "g", "ingredient": "Butter" }
+  ],
+  "method": [
+    "Heat half the oil in a large heavy-based pan. Add the onion and cook until softened. Tip it onto a plate.",
+    "Return the pan to the heat and add the remaining oil. When hot, fry the mince in batches for 4–5 minutes until browned all over.",
+    "Stir in the cooked onion and tomato purée and cook for 1 minute. Stir in the flour and cook for another minute. Pour in the red wine, scraping up caramelised bits, then add the thyme.",
+    "Add the stock and simmer for 45 minutes until the mince is tender and the mixture has thickened. Season to taste and add Worcestershire sauce. Keep warm over very low heat.",
+    "For the mash, boil the potatoes in salted water for 12–15 minutes until tender.",
+    "Drain and return potatoes to the pan. Heat for 1 minute to remove moisture. Mash well, then add butter and milk, beating to form a smooth mash. Season to taste.",
+    "Preheat grill to high. Spoon the filling into a baking dish and spread mash over the top. Grill for 8–10 minutes until golden-brown.",
+    "Boil peas in boiling water for 3–4 minutes, drain, and add butter. Serve the cottage pie with the peas."
+  ]
+}
