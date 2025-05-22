@@ -305,5 +305,37 @@
     "Carefully strain the gravy through a sieve into a large bowl, pressing the onions with the back of a spoon to release as much flavour as possible. Pour the liquid back into the pan and stir in 400ml of cold water, then add the meatballs and any resting juices.",
     "Cover loosely with a lid and simmer gently for 25–30 minutes, stirring occasionally until the meatballs are tender and the gravy is thick enough to lightly coat them."
   ]
+},
+  {
+  "recipeName": "Sausage and Tortellini Soup",
+  "prepTimeMinutes": 30,
+  "cookTimeMinutes": 45,
+  "servings": 4,
+  "mainImage": "https://ichef.bbci.co.uk/food/ic/food_16x9_832/recipes/sausage_and_tortellini_59553_16x9.jpg",
+  "ingredients": [
+    { "quantity": 2, "unit": "tbsp", "ingredient": "Olive Oil" },
+    { "quantity": 200, "unit": "g", "ingredient": "Sausages" },
+    { "quantity": 1, "ingredient": "Onion" },
+    { "quantity": 0.5, "ingredient": "Fennel Bulb" },
+    { "quantity": 4, "ingredient": "Garlic Cloves" },
+    { "quantity": 2, "unit": "tbsp", "ingredient": "Tomato Purée" },
+    { "quantity": 1, "unit": "tsp", "ingredient": "Dried Oregano" },
+    { "quantity": 150, "unit": "ml", "ingredient": "White Wine" },
+    { "quantity": 400, "unit": "g", "ingredient": "Chopped Tomatoes" },
+    { "quantity": 1, "unit": "l", "ingredient": "Chicken Stock" },
+    { "quantity": 300, "unit": "g", "ingredient": "Fresh Tortellini" },
+    { "quantity": 150, "unit": "g", "ingredient": "Baby Spinach" },
+    { "quantity": 100, "unit": "ml", "ingredient": "Double Cream" },
+    { "ingredient": "Parmesan" }
+  ],
+  "method": [
+    "Heat the olive oil in a large pan with a lid over medium heat. Roll the sausage meat into small, equally-sized meatballs and add them to the pan.",
+    "Fry for 5–6 minutes, stirring occasionally, until browned on all sides. Remove the meatballs with a slotted spoon and set aside.",
+    "Add the onion and fennel to the pan. Cook, stirring occasionally, for 5–6 minutes or until slightly softened.",
+    "Add the garlic, tomato purée, and oregano. Cook until fragrant. Pour in the white wine to deglaze the pan, stirring well, and cook for 2–3 minutes more.",
+    "Add the chopped tomatoes, chicken stock, and cooked meatballs. Stir together and bring to the boil. Cover with a lid, reduce the heat to low, and simmer for 30 minutes.",
+    "Increase the heat and bring the soup to a gentle boil. Add the tortellini, spinach, and double cream. Stir well and cook for 1–2 minutes or until the tortellini is just cooked.",
+    "Serve immediately into bowls with a sprinkle of grated Parmesan."
+  ]
 }
 ]
